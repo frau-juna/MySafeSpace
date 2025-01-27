@@ -1,0 +1,12 @@
+@import "functions";
+@import "variables";
+
+$primary: $brand-success;
+$theme-colors: map-merge($theme-colors, ("primary": $primary));
+      
+@import "bootstrap";
+
+$brand-success: #5cb85c;
+#navbar-example2 {
+    background-color: $brand-success;
+}
