@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../HD-app"
+	},
+	{
+		"path": "../calendar-07"
+	},
+	{
+		"path": "../calendar-08"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "MySafeSpace"
+  }
+}
